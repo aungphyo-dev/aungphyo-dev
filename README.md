@@ -1,8 +1,9 @@
 ```javascript
 const about = {
-  name : Aung Pyae Phyo,
-  age : 20,
-  code : [ Javascript, Typescript, PHP ],
-  tools : [ Nodejs, Laravel, Expressjs, Reactjs, Nextjs, Mongodb, Mysql ],
-}
+  name: Aung Pyae Phyo,
+  languages: [JavaScript, TypeScript, PHP],
+  tools: [Next.js, React.js, Express.js, Node.js, Git, Postman],
+  databases: [MongoDB, MySQL, PostgreSQL],
+  interests: [Web Development, Open Source Contribution]
+};
 ```
