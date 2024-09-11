@@ -1,1 +1,1 @@
-![Aung Phyo Developer](https://github-readme-stats.vercel.app/api/top-langs/?username=aungphyo-dev&hide_progress=true)
+![Aung Phyo Developer](https://github-readme-stats.vercel.app/api/top-langs/?username=aungphyo-dev&layout=compact)  ![Aung Phyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=aungphyo-dev&show_icons=true&theme=transparent) 
