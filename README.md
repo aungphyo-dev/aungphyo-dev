@@ -1,25 +1,17 @@
 ```yaml
-Languages:                   Frontend:
-  - Javascript                 - React.Js
-  - Typescript                 - Next.Js
-  - Php                        - ReactNative
-  - JavaSE                     - Redux
-                               - Flux
-                               - Expo
+Languages:                 | Frontend:              | Backend:
+  - Javascript             |   - React.Js           |   - Node.Js
+  - Typescript             |   - Next.Js            |   - Express.Js
+  - Php                    |   - ReactNative        |   - Nest.Js
+  - JavaSE                 |   - Redux              |   - Laravel
+                           |   - Flux               |
+                           |   - Expo               |
 
-Backend:                     Database:
-  - Node.Js                    - Mysql
-  - Express.Js                 - Postgresql
-  - Nest.Js                    - MsSql Server
-  - Laravel                    - MongoDB
-                               - Redis
-
-Tools:                      
-  - Prisma                  
-  - TypeORM                 
-  - Drizzle                 
-  - Turborepo (vercel)      
-  - Docker                  
-  - Linux                   
-
+Database:                  | Tools:                 | Design:
+  - Mysql                  |   - Prisma             |   - Figma
+  - Postgresql             |   - TypeORM            |
+  - MsSql Server           |   - Drizzle            |  
+  - MongoDB                |   - Turborepo (vercel) |   
+  - Redis                  |   - Docker             |  
+                           |   - Linux              |
 ```
