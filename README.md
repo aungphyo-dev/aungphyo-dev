@@ -1,17 +1,10 @@
-```yaml
-Languages:               | Frontend:          | Backend:
-  - Javascript           | - React.Js         | - Node.Js
-  - Typescript           | - Next.Js          | - Express.Js
-  - Php                  | - ReactNative      | - Nest.Js
-  - JavaSE               | - Redux            | - Laravel
-                         | - Flux             |
-                         | - Expo             |
-
-Database:                | Tools:             | Design:
-  - Mysql                | - Prisma           | - Figma
-  - Postgresql           | - TypeORM          | 
-  - MsSql Server         | - Drizzle          |
-  - MongoDB              | - Turborepo        | 
-  - Redis                | - Docker           | 
-                         | - Linux            |
+```json
+{
+  "languages": ["Javascript", "Typescript", "Php", "JavaSE"],
+  "frontend": ["ReactJS", "NextJS", "ReactNative", "Redux", "Flux", "Expo"],
+  "backend": ["NodeJS", "ExpressJS", "NestJS", "Laravel"],
+  "database": ["Mysql", "Postgresql", "MsSql Server", "MongoDB", "Redis"],
+  "tools": ["Prisma", "TypeORM", "Drizzle", "Turborepo", "Docker", "Linux"],
+  "design": ["Figma"]
+}
 ```
